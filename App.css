@@ -1,0 +1,37 @@
+.App{
+  background-color: #27374D;
+}
+.contain {
+  columns:3;
+  column-gap: 5px ;
+  width: 70%;
+  margin:1px auto;
+}
+.contain img{
+  width: 95%;
+  margin: 0;
+  padding:3px;
+  
+}
+.input-div{
+  margin:auto;
+  padding: 50px;
+  
+}
+input{
+  height: 40px;
+  width: 300px;
+  padding-right: 30px;
+  margin: auto;
+  margin-right: 20px;
+  margin-left: 450px;
+  border-radius: 1rem;
+
+}
+button{
+  height: 40px;
+  width: 150px;
+  background-color: #545B77;
+  border-style: none;
+  border-radius: 1em;
+}
